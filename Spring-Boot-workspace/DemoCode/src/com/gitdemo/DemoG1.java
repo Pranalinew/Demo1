@@ -8,6 +8,6 @@ public class DemoG1 {
 	Scanner s=new Scanner(System.in);
 	int a,b;
  //int c=a+b;
-	System.out.println();
+	System.out.println("clone & trying to push again");
 }
 }
